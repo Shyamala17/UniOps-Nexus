@@ -1,11 +1,26 @@
-<div align="center">
+# UniOps Nexus
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## 🌍 Vision
+UniOps Nexus is a prompt-engineered project that reveals the hidden stories behind food and workers.  
+When a user clicks on a dish, they see:
+- Ingredient origins (state, district, farm)
+- Farmer details (name, age, working hours)
+- Production methods (manual vs modern)
+- Worker empowerment (wages, challenges)
+- Health & society analysis
+- Video-style storyboard with timings
 
-  <h1>Built with AI Studio</h2>
+## 🧩 Prompt Scripts
+- `prompts/carrot_curry.txt`
+- `prompts/chicken_fried_rice.txt`
+- `prompts/textiles.txt`
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🎯 Competition Flow
+- **Prelims:** Carrot Curry demo → ingredient transparency + worker empowerment.
+- **Finals:** Multiple dishes + textiles → expanded analysis + video storyboard.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## 🏆 Impact
+- Middle-class affordability
+- Worker respect
+- Health awareness
+- Transparent food systems for future generations
