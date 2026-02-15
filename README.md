@@ -31,3 +31,28 @@ In the **Prelims Demo**, the focus is on a single dish, showing ingredient trans
 ---
 
 ## 🛠️ Repository Structure
+UniOps-Nexus/
+│
+├── README.md                # Prelims project description
+├── prompts/
+│   ├── dish_transparency.txt
+│   └── worker_empowerment.txt
+├── demo/
+│   ├── sample_output_dish.md
+│   └── sample_output_worker.md
+└── competition_flow.md       # Notes on prelims vs finals
+
+Code
+
+---
+
+## 🏆 Impact
+- **Food Transparency:** Reveals ingredient origins and farmer details.  
+- **Worker Empowerment:** Highlights wages and working conditions.  
+- **Health & Culture:** Connects food to affordability, nutrition, and tradition.  
+
+---
+
+## 📦 Releases
+- **v1.0.0 (Prelims Demo):** Single dish transparency + farmer narration.  
+- **v2.0.0 (Finals Demo):** Expanded multimodal outputs (text, image, voice, video,maps
